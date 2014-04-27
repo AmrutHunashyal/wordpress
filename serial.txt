@@ -1,0 +1,5 @@
+Model                            SerialNumber  
+ZTE USB Storage FFF1 USB Device                
+TOSHIBA MK3265GSXN               41B3D54PB     
+
+
